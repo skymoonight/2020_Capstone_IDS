@@ -1,0 +1,12 @@
+2020-05-08 01:04:06 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ./packet/pcap/packet.pcap
+2020-05-08 01:04:06 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ./packet/csv/exfeature
+2020-05-08 01:04:06 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2020-05-08 01:04:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2020-05-08 01:04:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2020-05-08 01:04:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2020-05-08 01:04:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2020-05-08 01:04:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 58 flow
+2020-05-08 01:04:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 58 flow
+2020-05-08 01:04:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 68 flow
+2020-05-08 01:04:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 69 flow
+2020-05-08 01:04:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ./packet/pcap/packet.pcap

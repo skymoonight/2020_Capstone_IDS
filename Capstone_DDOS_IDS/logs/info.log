@@ -1,0 +1,582 @@
+2020-05-08 01:04:06 - You select: ./packet/pcap/packet.pcap
+2020-05-08 01:04:06 - Out folder: ./packet/csv/exfeature
+2020-05-08 01:04:06 - CICFlowMeter received 1 pcap file
+2020-05-11 21:53:39 - You select: ./packet/pcap/packet.pcap
+2020-05-11 21:53:39 - Out folder: ./packet/csv/exfeature
+2020-05-11 21:53:40 - CICFlowMeter received 1 pcap file
+2020-05-11 21:55:02 - You select: ./packet/pcap/packet.pcap
+2020-05-11 21:55:02 - Out folder: ./packet/csv/exfeature
+2020-05-11 21:55:02 - CICFlowMeter received 1 pcap file
+2020-05-11 21:55:19 - You select: ./packet/pcap/packet.pcap
+2020-05-11 21:55:19 - Out folder: ./packet/csv/exfeature
+2020-05-11 21:55:19 - CICFlowMeter received 1 pcap file
+2020-05-11 21:56:57 - You select: ./packet/pcap/packet.pcap
+2020-05-11 21:56:57 - Out folder: ./packet/csv/exfeature
+2020-05-11 21:56:57 - CICFlowMeter received 1 pcap file
+2020-05-15 05:17:00 - You select: ./packet/pcap/packet.pcap
+2020-05-15 05:17:00 - Out folder: ./packet/csv/exfeature
+2020-05-15 05:17:00 - CICFlowMeter received 1 pcap file
+2020-05-15 05:18:34 - You select: ./packet/pcap/packet.pcap
+2020-05-15 05:18:34 - Out folder: ./packet/csv/exfeature
+2020-05-15 05:18:35 - CICFlowMeter received 1 pcap file
+2020-05-15 05:18:45 - You select: ./packet/pcap/packet.pcap
+2020-05-15 05:18:45 - Out folder: ./packet/csv/exfeature
+2020-05-15 05:18:46 - CICFlowMeter received 1 pcap file
+2020-05-15 05:19:44 - You select: ./packet/pcap/packet.pcap
+2020-05-15 05:19:44 - Out folder: ./packet/csv/exfeature
+2020-05-15 05:19:45 - CICFlowMeter received 1 pcap file
+2020-05-29 12:00:20 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:00:20 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:00:21 - CICFlowMeter received 1 pcap file
+2020-05-29 12:02:15 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:02:15 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:02:16 - CICFlowMeter received 1 pcap file
+2020-05-29 12:02:57 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:02:57 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:02:57 - CICFlowMeter received 1 pcap file
+2020-05-29 12:03:01 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:03:01 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:03:01 - CICFlowMeter received 1 pcap file
+2020-05-29 12:03:04 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:03:04 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:03:05 - CICFlowMeter received 1 pcap file
+2020-05-29 12:03:09 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:03:09 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:03:09 - CICFlowMeter received 1 pcap file
+2020-05-29 12:03:13 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:03:13 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:03:14 - CICFlowMeter received 1 pcap file
+2020-05-29 12:03:19 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:03:19 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:03:19 - CICFlowMeter received 1 pcap file
+2020-05-29 12:03:24 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:03:24 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:03:24 - CICFlowMeter received 1 pcap file
+2020-05-29 12:03:30 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:03:30 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:03:30 - CICFlowMeter received 1 pcap file
+2020-05-29 12:03:37 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:03:37 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:03:37 - CICFlowMeter received 1 pcap file
+2020-05-29 12:03:45 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:03:45 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:03:45 - CICFlowMeter received 1 pcap file
+2020-05-29 12:03:53 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:03:53 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:03:53 - CICFlowMeter received 1 pcap file
+2020-05-29 12:04:01 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:04:01 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:04:01 - CICFlowMeter received 1 pcap file
+2020-05-29 12:04:11 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:04:11 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:04:11 - CICFlowMeter received 1 pcap file
+2020-05-29 12:04:20 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:04:20 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:04:20 - CICFlowMeter received 1 pcap file
+2020-05-29 12:04:30 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:04:30 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:04:30 - CICFlowMeter received 1 pcap file
+2020-05-29 12:04:41 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:04:41 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:04:41 - CICFlowMeter received 1 pcap file
+2020-05-29 12:04:51 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:04:51 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:04:51 - CICFlowMeter received 1 pcap file
+2020-05-29 12:05:02 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:05:02 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:05:02 - CICFlowMeter received 1 pcap file
+2020-05-29 12:05:14 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:05:14 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:05:14 - CICFlowMeter received 1 pcap file
+2020-05-29 12:05:26 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:05:26 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:05:26 - CICFlowMeter received 1 pcap file
+2020-05-29 12:05:39 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:05:39 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:05:39 - CICFlowMeter received 1 pcap file
+2020-05-29 12:05:53 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:05:53 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:05:53 - CICFlowMeter received 1 pcap file
+2020-05-29 12:06:07 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:06:07 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:06:07 - CICFlowMeter received 1 pcap file
+2020-05-29 12:06:22 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:06:22 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:06:22 - CICFlowMeter received 1 pcap file
+2020-05-29 12:06:38 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:06:38 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:06:38 - CICFlowMeter received 1 pcap file
+2020-05-29 12:06:55 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:06:55 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:06:55 - CICFlowMeter received 1 pcap file
+2020-05-29 12:07:11 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:07:11 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:07:11 - CICFlowMeter received 1 pcap file
+2020-05-29 12:07:29 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:07:29 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:07:29 - CICFlowMeter received 1 pcap file
+2020-05-29 12:07:46 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:07:46 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:07:46 - CICFlowMeter received 1 pcap file
+2020-05-29 12:08:03 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:08:03 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:08:03 - CICFlowMeter received 1 pcap file
+2020-05-29 12:08:22 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:08:22 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:08:22 - CICFlowMeter received 1 pcap file
+2020-05-29 12:08:41 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:08:41 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:08:42 - CICFlowMeter received 1 pcap file
+2020-05-29 12:09:02 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:09:02 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:09:02 - CICFlowMeter received 1 pcap file
+2020-05-29 12:09:22 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:09:22 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:09:22 - CICFlowMeter received 1 pcap file
+2020-05-29 12:09:42 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:09:42 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:09:42 - CICFlowMeter received 1 pcap file
+2020-05-29 12:10:04 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:10:04 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:10:04 - CICFlowMeter received 1 pcap file
+2020-05-29 12:10:24 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:10:24 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:10:24 - CICFlowMeter received 1 pcap file
+2020-05-29 12:10:46 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:10:46 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:10:46 - CICFlowMeter received 1 pcap file
+2020-05-29 12:11:07 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:11:07 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:11:08 - CICFlowMeter received 1 pcap file
+2020-05-29 12:11:30 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:11:30 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:11:30 - CICFlowMeter received 1 pcap file
+2020-05-29 12:11:53 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:11:53 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:11:53 - CICFlowMeter received 1 pcap file
+2020-05-29 12:12:16 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:12:16 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:12:16 - CICFlowMeter received 1 pcap file
+2020-05-29 12:12:42 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:12:42 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:12:42 - CICFlowMeter received 1 pcap file
+2020-05-29 12:13:06 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:13:06 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:13:06 - CICFlowMeter received 1 pcap file
+2020-05-29 12:13:31 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:13:31 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:13:31 - CICFlowMeter received 1 pcap file
+2020-05-29 12:13:56 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:13:56 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:13:56 - CICFlowMeter received 1 pcap file
+2020-05-29 12:14:22 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:14:22 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:14:22 - CICFlowMeter received 1 pcap file
+2020-05-29 12:14:49 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:14:49 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:14:49 - CICFlowMeter received 1 pcap file
+2020-05-29 12:15:17 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:15:17 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:15:17 - CICFlowMeter received 1 pcap file
+2020-05-29 12:15:46 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:15:46 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:15:46 - CICFlowMeter received 1 pcap file
+2020-05-29 12:16:14 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:16:14 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:16:14 - CICFlowMeter received 1 pcap file
+2020-05-29 12:16:45 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:16:45 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:16:45 - CICFlowMeter received 1 pcap file
+2020-05-29 12:17:15 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:17:15 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:17:15 - CICFlowMeter received 1 pcap file
+2020-05-29 12:17:46 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:17:46 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:17:46 - CICFlowMeter received 1 pcap file
+2020-05-29 12:18:16 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:18:16 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:18:16 - CICFlowMeter received 1 pcap file
+2020-05-29 12:18:47 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:18:47 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:18:47 - CICFlowMeter received 1 pcap file
+2020-05-29 12:19:19 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:19:19 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:19:19 - CICFlowMeter received 1 pcap file
+2020-05-29 12:19:50 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:19:50 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:19:50 - CICFlowMeter received 1 pcap file
+2020-05-29 12:20:25 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:20:25 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:20:25 - CICFlowMeter received 1 pcap file
+2020-05-29 12:20:58 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:20:58 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:20:58 - CICFlowMeter received 1 pcap file
+2020-05-29 12:21:32 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:21:32 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:21:32 - CICFlowMeter received 1 pcap file
+2020-05-29 12:22:06 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:22:06 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:22:06 - CICFlowMeter received 1 pcap file
+2020-05-29 12:22:41 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:22:41 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:22:41 - CICFlowMeter received 1 pcap file
+2020-05-29 12:23:18 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:23:18 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:23:19 - CICFlowMeter received 1 pcap file
+2020-05-29 12:23:56 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:23:56 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:23:56 - CICFlowMeter received 1 pcap file
+2020-05-29 12:24:33 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:24:33 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:24:33 - CICFlowMeter received 1 pcap file
+2020-05-29 12:25:10 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:25:10 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:25:10 - CICFlowMeter received 1 pcap file
+2020-05-29 12:25:49 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:25:49 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:25:49 - CICFlowMeter received 1 pcap file
+2020-05-29 12:26:27 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:26:27 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:26:27 - CICFlowMeter received 1 pcap file
+2020-05-29 12:27:05 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:27:05 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:27:05 - CICFlowMeter received 1 pcap file
+2020-05-29 12:27:44 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:27:44 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:27:45 - CICFlowMeter received 1 pcap file
+2020-05-29 12:28:24 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:28:24 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:28:24 - CICFlowMeter received 1 pcap file
+2020-05-29 12:29:04 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:29:04 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:29:04 - CICFlowMeter received 1 pcap file
+2020-05-29 12:29:45 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:29:45 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:29:45 - CICFlowMeter received 1 pcap file
+2020-05-29 12:30:27 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:30:27 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:30:27 - CICFlowMeter received 1 pcap file
+2020-05-29 12:31:09 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:31:09 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:31:09 - CICFlowMeter received 1 pcap file
+2020-05-29 12:31:51 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:31:51 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:31:51 - CICFlowMeter received 1 pcap file
+2020-05-29 12:32:34 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:32:34 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:32:34 - CICFlowMeter received 1 pcap file
+2020-05-29 12:33:18 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:33:18 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:33:18 - CICFlowMeter received 1 pcap file
+2020-05-29 12:34:04 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:34:04 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:34:04 - CICFlowMeter received 1 pcap file
+2020-05-29 12:45:30 - You select: ./packet/pcap/packet.pcap
+2020-05-29 12:45:30 - Out folder: ./packet/csv/exfeature
+2020-05-29 12:45:30 - CICFlowMeter received 1 pcap file
+2020-05-29 13:00:24 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:00:24 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:00:25 - CICFlowMeter received 1 pcap file
+2020-05-29 13:07:15 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:07:15 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:07:15 - CICFlowMeter received 1 pcap file
+2020-05-29 13:16:33 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:16:33 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:16:34 - CICFlowMeter received 1 pcap file
+2020-05-29 13:21:38 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:21:38 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:21:38 - CICFlowMeter received 1 pcap file
+2020-05-29 13:24:25 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:24:25 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:24:26 - CICFlowMeter received 1 pcap file
+2020-05-29 13:34:55 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:34:55 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:34:55 - CICFlowMeter received 1 pcap file
+2020-05-29 13:34:57 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:34:57 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:34:57 - CICFlowMeter received 1 pcap file
+2020-05-29 13:35:00 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:35:00 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:35:00 - CICFlowMeter received 1 pcap file
+2020-05-29 13:35:03 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:35:03 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:35:03 - CICFlowMeter received 1 pcap file
+2020-05-29 13:35:07 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:35:07 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:35:07 - CICFlowMeter received 1 pcap file
+2020-05-29 13:35:11 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:35:11 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:35:11 - CICFlowMeter received 1 pcap file
+2020-05-29 13:35:16 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:35:16 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:35:16 - CICFlowMeter received 1 pcap file
+2020-05-29 13:35:21 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:35:21 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:35:21 - CICFlowMeter received 1 pcap file
+2020-05-29 13:35:26 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:35:26 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:35:26 - CICFlowMeter received 1 pcap file
+2020-05-29 13:35:32 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:35:32 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:35:33 - CICFlowMeter received 1 pcap file
+2020-05-29 13:35:39 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:35:39 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:35:39 - CICFlowMeter received 1 pcap file
+2020-05-29 13:35:46 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:35:46 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:35:46 - CICFlowMeter received 1 pcap file
+2020-05-29 13:35:53 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:35:53 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:35:54 - CICFlowMeter received 1 pcap file
+2020-05-29 13:36:01 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:36:01 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:36:01 - CICFlowMeter received 1 pcap file
+2020-05-29 13:36:09 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:36:09 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:36:09 - CICFlowMeter received 1 pcap file
+2020-05-29 13:36:18 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:36:18 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:36:18 - CICFlowMeter received 1 pcap file
+2020-05-29 13:36:27 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:36:27 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:36:27 - CICFlowMeter received 1 pcap file
+2020-05-29 13:36:36 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:36:36 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:36:36 - CICFlowMeter received 1 pcap file
+2020-05-29 13:36:47 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:36:47 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:36:47 - CICFlowMeter received 1 pcap file
+2020-05-29 13:36:58 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:36:58 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:36:58 - CICFlowMeter received 1 pcap file
+2020-05-29 13:37:09 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:37:09 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:37:09 - CICFlowMeter received 1 pcap file
+2020-05-29 13:37:20 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:37:20 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:37:20 - CICFlowMeter received 1 pcap file
+2020-05-29 13:37:33 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:37:33 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:37:33 - CICFlowMeter received 1 pcap file
+2020-05-29 13:37:45 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:37:45 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:37:45 - CICFlowMeter received 1 pcap file
+2020-05-29 13:37:58 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:37:58 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:37:58 - CICFlowMeter received 1 pcap file
+2020-05-29 13:38:11 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:38:11 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:38:12 - CICFlowMeter received 1 pcap file
+2020-05-29 13:38:25 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:38:25 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:38:25 - CICFlowMeter received 1 pcap file
+2020-05-29 13:38:40 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:38:40 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:38:40 - CICFlowMeter received 1 pcap file
+2020-05-29 13:38:55 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:38:55 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:38:55 - CICFlowMeter received 1 pcap file
+2020-05-29 13:39:13 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:39:13 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:39:13 - CICFlowMeter received 1 pcap file
+2020-05-29 13:39:29 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:39:29 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:39:29 - CICFlowMeter received 1 pcap file
+2020-05-29 13:39:45 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:39:45 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:39:45 - CICFlowMeter received 1 pcap file
+2020-05-29 13:40:01 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:40:01 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:40:02 - CICFlowMeter received 1 pcap file
+2020-05-29 13:40:19 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:40:19 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:40:19 - CICFlowMeter received 1 pcap file
+2020-05-29 13:42:06 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:42:06 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:42:06 - CICFlowMeter received 1 pcap file
+2020-05-29 13:43:17 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:43:17 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:43:17 - CICFlowMeter received 1 pcap file
+2020-05-29 13:46:11 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:46:11 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:46:11 - CICFlowMeter received 1 pcap file
+2020-05-29 13:46:37 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:46:37 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:46:38 - CICFlowMeter received 1 pcap file
+2020-05-29 13:47:00 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:47:00 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:47:00 - CICFlowMeter received 1 pcap file
+2020-05-29 13:47:22 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:47:22 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:47:23 - CICFlowMeter received 1 pcap file
+2020-05-29 13:47:47 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:47:47 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:47:47 - CICFlowMeter received 1 pcap file
+2020-05-29 13:48:10 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:48:10 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:48:10 - CICFlowMeter received 1 pcap file
+2020-05-29 13:48:32 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:48:32 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:48:32 - CICFlowMeter received 1 pcap file
+2020-05-29 13:48:55 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:48:55 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:48:55 - CICFlowMeter received 1 pcap file
+2020-05-29 13:49:18 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:49:18 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:49:18 - CICFlowMeter received 1 pcap file
+2020-05-29 13:49:42 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:49:42 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:49:42 - CICFlowMeter received 1 pcap file
+2020-05-29 13:50:04 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:50:04 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:50:04 - CICFlowMeter received 1 pcap file
+2020-05-29 13:50:27 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:50:27 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:50:27 - CICFlowMeter received 1 pcap file
+2020-05-29 13:50:51 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:50:51 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:50:51 - CICFlowMeter received 1 pcap file
+2020-05-29 13:51:15 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:51:15 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:51:15 - CICFlowMeter received 1 pcap file
+2020-05-29 13:51:40 - You select: ./packet/pcap/packet.pcap
+2020-05-29 13:51:40 - Out folder: ./packet/csv/exfeature
+2020-05-29 13:51:40 - CICFlowMeter received 1 pcap file
+2020-05-29 14:00:33 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:00:33 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:00:33 - CICFlowMeter received 1 pcap file
+2020-05-29 14:00:41 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:00:41 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:00:41 - CICFlowMeter received 1 pcap file
+2020-05-29 14:00:48 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:00:48 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:00:48 - CICFlowMeter received 1 pcap file
+2020-05-29 14:10:10 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:10:10 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:10:10 - CICFlowMeter received 1 pcap file
+2020-05-29 14:13:27 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:13:27 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:13:27 - CICFlowMeter received 1 pcap file
+2020-05-29 14:24:07 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:24:07 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:24:07 - CICFlowMeter received 1 pcap file
+2020-05-29 14:30:27 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:30:27 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:30:27 - CICFlowMeter received 1 pcap file
+2020-05-29 14:31:45 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:31:45 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:31:45 - CICFlowMeter received 1 pcap file
+2020-05-29 14:31:47 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:31:47 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:31:47 - CICFlowMeter received 1 pcap file
+2020-05-29 14:31:50 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:31:50 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:31:50 - CICFlowMeter received 1 pcap file
+2020-05-29 14:31:53 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:31:53 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:31:53 - CICFlowMeter received 1 pcap file
+2020-05-29 14:31:56 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:31:56 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:31:56 - CICFlowMeter received 1 pcap file
+2020-05-29 14:32:00 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:32:00 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:32:00 - CICFlowMeter received 1 pcap file
+2020-05-29 14:32:14 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:32:14 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:32:14 - CICFlowMeter received 1 pcap file
+2020-05-29 14:32:19 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:32:19 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:32:19 - CICFlowMeter received 1 pcap file
+2020-05-29 14:32:25 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:32:25 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:32:25 - CICFlowMeter received 1 pcap file
+2020-05-29 14:32:31 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:32:31 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:32:31 - CICFlowMeter received 1 pcap file
+2020-05-29 14:32:37 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:32:37 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:32:37 - CICFlowMeter received 1 pcap file
+2020-05-29 14:32:43 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:32:43 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:32:43 - CICFlowMeter received 1 pcap file
+2020-05-29 14:32:49 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:32:49 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:32:49 - CICFlowMeter received 1 pcap file
+2020-05-29 14:32:56 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:32:56 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:32:56 - CICFlowMeter received 1 pcap file
+2020-05-29 14:33:04 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:33:04 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:33:04 - CICFlowMeter received 1 pcap file
+2020-05-29 14:33:12 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:33:12 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:33:12 - CICFlowMeter received 1 pcap file
+2020-05-29 14:33:21 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:33:21 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:33:21 - CICFlowMeter received 1 pcap file
+2020-05-29 14:33:30 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:33:30 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:33:30 - CICFlowMeter received 1 pcap file
+2020-05-29 14:33:45 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:33:45 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:33:45 - CICFlowMeter received 1 pcap file
+2020-05-29 14:33:56 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:33:56 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:33:56 - CICFlowMeter received 1 pcap file
+2020-05-29 14:34:07 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:34:07 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:34:07 - CICFlowMeter received 1 pcap file
+2020-05-29 14:34:17 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:34:17 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:34:17 - CICFlowMeter received 1 pcap file
+2020-05-29 14:34:28 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:34:28 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:34:28 - CICFlowMeter received 1 pcap file
+2020-05-29 14:34:41 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:34:41 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:34:41 - CICFlowMeter received 1 pcap file
+2020-05-29 14:34:54 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:34:54 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:34:54 - CICFlowMeter received 1 pcap file
+2020-05-29 14:35:06 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:35:06 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:35:07 - CICFlowMeter received 1 pcap file
+2020-05-29 14:35:20 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:35:20 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:35:20 - CICFlowMeter received 1 pcap file
+2020-05-29 14:35:33 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:35:33 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:35:34 - CICFlowMeter received 1 pcap file
+2020-05-29 14:35:48 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:35:48 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:35:48 - CICFlowMeter received 1 pcap file
+2020-05-29 14:36:03 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:36:03 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:36:03 - CICFlowMeter received 1 pcap file
+2020-05-29 14:36:18 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:36:18 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:36:18 - CICFlowMeter received 1 pcap file
+2020-05-29 14:36:34 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:36:34 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:36:34 - CICFlowMeter received 1 pcap file
+2020-05-29 14:36:52 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:36:52 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:36:52 - CICFlowMeter received 1 pcap file
+2020-05-29 14:37:10 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:37:10 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:37:10 - CICFlowMeter received 1 pcap file
+2020-05-29 14:37:27 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:37:27 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:37:27 - CICFlowMeter received 1 pcap file
+2020-05-29 14:37:47 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:37:47 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:37:48 - CICFlowMeter received 1 pcap file
+2020-05-29 14:38:08 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:38:08 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:38:09 - CICFlowMeter received 1 pcap file
+2020-05-29 14:38:30 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:38:30 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:38:30 - CICFlowMeter received 1 pcap file
+2020-05-29 14:38:52 - You select: ./packet/pcap/packet.pcap
+2020-05-29 14:38:52 - Out folder: ./packet/csv/exfeature
+2020-05-29 14:38:52 - CICFlowMeter received 1 pcap file
