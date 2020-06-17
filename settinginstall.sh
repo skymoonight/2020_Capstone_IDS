@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#git clone 
-# please, ture to public before 
-
 #install pip
 sudo apt-get install python3-pip -y
 
@@ -30,11 +27,5 @@ pip3 install django-rest-framework
 # 2. start IDS
 # cd Capstone_DDOS_IDS
 # sudo python3 DDOS_IDS.py
-
-cd mysite
-sudo python3 manage.py runserver &
-cd ..
-cd Capstone_DDOS_IDS
-sudo python3 DDOS_IDS.py
 
 
