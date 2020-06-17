@@ -6,7 +6,7 @@ Capstone : DDOS 탐지 IDS + Django 모니터링 서비스
 <pre><code>git clone [이 git repository 주소]</pre></code>
 > setting & module install
 <pre><code>cd 2020_Capstone_IDS</code></pre>
-<pre><code>chmod 755 settinginstall.sh</code></pre>
+<pre><code>chmod 777 settinginstall.sh</code></pre>
 <pre><code>./settinginstall.sh</code></pre>
 ------------------------------------------------------------------
 ## IDS 실행
