@@ -19,3 +19,7 @@ Capstone : DDOS 탐지 IDS + Django 모니터링 서비스
 #### 새로운 터미널 창을 띄우고 진행합니다.
 <pre><code>cd Capstone_DDOS_IDS</pre></code>
 <pre><code>sudo python3 DDOS_IDS.py</pre></code>
+------------------------------------------------------------------
+## IDS 실행
+> 임시계정
+<pre><code>id : text / pw : 1234</pre></code>
